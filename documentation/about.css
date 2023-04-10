@@ -1,0 +1,26 @@
+
+n{
+    background-color: black;
+  
+    
+}
+.n img{
+    height: 14%;
+}
+.n ul{
+    padding-top: 1rem;
+}
+.n li{
+    float:right;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.n li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.n li a:hover{
+    color: red
+}

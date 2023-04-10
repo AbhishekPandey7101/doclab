@@ -1,0 +1,57 @@
+.n{
+    background-color: black;
+  
+    
+}
+.n{
+    overflow: auto;
+}
+.n li{
+    float:right;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.n li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.n li a:hover{
+    color: red
+}
+.navbar{
+    padding: 0.6rem;
+    background-color: rgb(102, 102, 168);
+    color: white;
+}
+.left{
+    width: 30vh;
+    float: left;
+    padding: 0.6rem;
+    line-height: 2rem;
+    font-size: 1rem;
+    margin-right: 1rem;
+    justify-content: center;
+}
+.right{
+    font-size: 1.4rem;
+    width:70vh;
+    float: right;
+    background-color: rgb(230, 224, 224);
+    height: 5000px;
+    padding: 2rem;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    padding: 0.6rem;
+    background-color: rgb(102, 102, 168);
+    color: white;
+}
+.logo{
+    max-width: 90px;
+    
+}
